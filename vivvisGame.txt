@@ -1,4 +1,5 @@
-skriver lite cool kod
+
 lägger till text för att skapa en konflikt 
+
 konflikter here we come
-fcaada
+skapar mera beef med git hihi
