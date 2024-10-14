@@ -1,2 +1,3 @@
 skriver lite cool kod
 lägger till text för att skapa en konflikt 
+skapar mera beef med git hihi
